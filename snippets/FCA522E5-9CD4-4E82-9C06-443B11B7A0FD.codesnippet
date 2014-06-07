@@ -3,26 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>alert</string>
+	<string>propertyblock</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>UIAlertView *alert = [UIAlertView
-                      bk_alertViewWithTitle:&lt;#title#&gt;
-                      message:&lt;#message#&gt;];
-[alert addButtonWithTitle:@"OK"];
-[alert show];</string>
+	<string>@property(nonatomic, strong) void (^&lt;#name#&gt;)(void);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B89BBE6B-BCAC-47E9-8076-C03E3E234907</string>
+	<string>FCA522E5-9CD4-4E82-9C06-443B11B7A0FD</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UIAlertView with block</string>
+	<string>block property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
