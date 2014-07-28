@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark--- private</string>
+	<string>#pragma mark - private</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4D20168C-625C-4CCF-A03A-B3666A2E5F03</string>
 	<key>IDECodeSnippetLanguage</key>
